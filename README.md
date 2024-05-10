@@ -1,2 +1,5 @@
-# leetcode-top-interview-150
- My solutions to LeetCode's "Top Interview 150" list.
+# About this Repository
+
+These are my solutions to LeetCode's "Top Interview 150" list. Most of the solutions are either done with Java or Python.
+
+At the top of each file, you can find the name of the problem and the category it belongs to from the interview prep list.
